@@ -31,4 +31,4 @@ provider "workspace" {
 resource "workspace_requirement" "not_default" {}
 ```
 
-See the [workspace_requirement](/docs/resources/requirement) resource for more details.
+See the [workspace_requirement](./resources/requirement) resource for more details.
